@@ -1,0 +1,29 @@
+body {background-image: url(https://m.qpic.cn/psc?/V543fjfr4LdHqz3QjMSK2MgAOB0byPIL/ruAMsa53pVQWN7FLK88i5gUJFp1kKSP32rblPaBEhturgQNIR3cxr9QD2kxXyT618HGScE66WPUlab19AlOSDUxiMZvQaaUTfd.9Wgv6UZY!/b&bo=3AWqAwAAAAABB1A!&rf=viewer_4);}
+h1 {color:white;font-size:45px;}
+h1{text-shadow: 5px 5px 5px #A9A9A9;}
+img{width: 300px}
+p{color: #66CDAA}
+h2{color: hotpink}
+body {
+ width: 960px;
+ margin-left: auto;
+ margin-right: auto;
+}
+#center {
+ display: table;
+ width: 948px;
+}
+#nav, #content {
+ display: table-cell;
+}
+#nav {
+ width: 150px;
+}
+#header {
+ color:white;font-size: 40px；
+} 
+#nav {color: white}
+ div #A{color:#66CDAA}
+img {
+ float: left;
+}
